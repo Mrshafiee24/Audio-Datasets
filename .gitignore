@@ -19,3 +19,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# UrbanSound8K large archives
+UrbanSound8K/audio/*.rar
